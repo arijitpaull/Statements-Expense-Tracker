@@ -1,16 +1,12 @@
 # statements
 
-A new Flutter project.
+This is a basic easy-to-use day-to-day expense tracker app.
 
-## Getting Started
+## User Interface
 
-This project is a starting point for a Flutter application.
+### Android:
+![Screenshot_1709110311](https://github.com/arijitpaull/Statements-expense-tracker/assets/48390388/ba62924e-e658-40e2-a766-df8b01f2dd7c)
+![Screenshot_1709110366](https://github.com/arijitpaull/Statements-expense-tracker/assets/48390388/9f4e84b2-0586-424f-ba97-6a1bf072e7fe)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### iOS:
+![Simulator Screenshot - iPhone 13 Pro - 2024-02-28 at 14 21 39](https://github.com/arijitpaull/Statements-expense-tracker/assets/48390388/cf94cd89-935d-43af-896b-49b8c374e551)
